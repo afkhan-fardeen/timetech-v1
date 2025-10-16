@@ -125,7 +125,7 @@ const productSpecs = {
   },
   'display-1': {
     title: 'Waiting Area Display',
-    pdfUrl: '../docs/queue/Media_Player_Box_with_Time_Tech_Q_Software.pdf',
+    pdfUrl: '../docs/queue/waiting-area-display.pdf',
     downloadName: 'Waiting Area Display.pdf',
     features: [
       'Connects to display TVs for real-time queue updates',
@@ -152,7 +152,7 @@ const productSpecs = {
   },
   'display-2': {
     title: 'LCD Counter Display',
-    pdfUrl: '../docs/queue/Queue_Analytics_Software.pdf',
+    pdfUrl: '../docs/queue/lcd-counter-display.pdf',
     downloadName: 'LCD Counter Display.pdf',
     features: [
       'Bright and clear LED display for visibility',
@@ -176,7 +176,7 @@ const productSpecs = {
   },
   'display-3': {
     title: 'LED Counter Display',
-    pdfUrl: '../docs/queue/Queue_Analytics_Software.pdf',
+    pdfUrl: '../docs/queue/led-counter-display.pdf',
     downloadName: 'LED Counter Display.pdf',
     features: [
       'Bright and clear 8-digit LED display for visibility',
@@ -341,7 +341,7 @@ const productSpecs = {
   },
   'reporting-application': {
     title: 'Reporting Application',
-    pdfUrl: '../docs/queue/reporting-application.pdf',
+    pdfUrl: '../docs/queue/report.pdf',
     downloadName: 'Reporting Application.pdf',
     features: [
       'Displays live queue performance statistics',
