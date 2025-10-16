@@ -1,0 +1,19 @@
+.text-accent {
+  color: var(--color-accent);
+}
+
+.text-secondary-muted {
+  color: var(--color-text-secondary);
+}
+
+.bg-light {
+  background-color: var(--color-bg-main) !important;
+}
+
+.bg-white {
+  background-color: var(--color-bg-card) !important;
+}
+
+.shadow-subtle {
+  box-shadow: 0 2px 10px var(--shadow-subtle);
+}
